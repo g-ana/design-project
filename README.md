@@ -66,6 +66,6 @@ An initial version of a prototype for an online shopping application made with *
     * The *search form* contains a product search input field, using an appropriate icon and a value for placeholder text.
     * The *sorting menu* contains several *button toggles*, so users can select one sorting option, for example, ordered by the best product rating, newest items first, ordered by price ascending, or by price descending. Each button is a group of icon and a textual label, the button icon should be visible only in active state, and a different color should highlight the selected option.
     * The *filtering menu* contains a *filter* icon, a *filter keywords* part, using a group of tags, a *slider input field* for setting a price range filter (including a slider, label, output, description, knob start, and knob end), and *checkbox groups* to filter the product results by the selected colors, sizes, or other options.
-    * The *product results* contains a *card grid* of *product info cards*, where each card shows info for a results item, including the product name, price, description, and image. 
+    * The *product results* contains a *card grid* of *product info cards* with the *drop shadow* effect, where each card shows info for a results item, including the product name, price, description, and image. 
 
 ![Product catalog page](https://github.com/user-attachments/assets/92c74d8b-8eab-47b0-a2ce-fe9d3556ac7b)
